@@ -33,21 +33,6 @@ I'm a developer focused on building tools that solve real-world problems, especi
 <table>
   <tr>
     <td width="50%">
-      <h3>🎮 MVP Tool — PUBG MOBILE</h3>
-      <p>A dedicated website for my PUBG MOBILE tool project.</p>
-      <a href="https://www.mvptool.store/">Visit MVP Tool website →</a>
-    </td>
-    <td width="50%">
-      <h3>🧰 MN-TOOL</h3>
-      <p>A GSM servicing tool project focused on supported device-service workflows.</p>
-      <a href="https://github.com/Mahm0udNabil/MNTOOL">View repository →</a>
-      &nbsp;·&nbsp;
-      <a href="https://www.mn-tool.store/">Website →</a>
-    </td>
-  </tr>
-  <tr>
-  <tr>
-    <td width="50%">
       <h3>🧰 MN-TOOL</h3>
       <p>A GSM servicing tool project focused on supported device-service workflows.</p>
       <a href="https://github.com/Mahm0udNabil/MNTOOL">View repository →</a>
@@ -55,15 +40,16 @@ I'm a developer focused on building tools that solve real-world problems, especi
       <a href="https://www.mn-tool.store/">Website →</a>
     </td>
     <td width="50%">
-      <h3>🌐 Baseet</h3>
-      <p>A web project focused on presenting a digital product and its services.</p>
+      <h3>🌐 Baseet ERP System</h3>
+      <p>A business and ERP-focused digital product project.</p>
       <a href="https://www.baseet.store/">Visit website →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📱 Mobile Software & Service Workflows</h3>
-      <p>Exploring device communication, diagnostics, backup workflows, and servicing interfaces.</p>
+      <h3>🎮 MVP Tool — PUBG MOBILE</h3>
+      <p>A dedicated website for my PUBG MOBILE tool project.</p>
+      <a href="https://www.mvptool.store/">Visit MVP Tool website →</a>
     </td>
     <td width="50%">
       <h3>🖥️ Windows Desktop Apps</h3>
