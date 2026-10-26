@@ -4,13 +4,14 @@
 
 # Mahmoud Nabil
 
-### Software Developer · GSM Tools Developer · Product Builder
+### Software Developer · GSM Tools Developer · Gaming Tools Developer
 
-Building practical software for mobile-device servicing, repair workflows, and useful digital products.
+Building practical software for mobile-device servicing, PUBG MOBILE gaming tools, and useful digital products.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mahm0udNabil-181717?style=for-the-badge&logo=github)](https://github.com/Mahm0udNabil)
 [![MN-TOOL](https://img.shields.io/badge/Project-MN--TOOL-F5C842?style=for-the-badge)](https://github.com/Mahm0udNabil/MNTOOL)
 [![Website](https://img.shields.io/badge/Website-mn--tool.store-00B8D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mn-tool.store/)
+[![MVP Tool](https://img.shields.io/badge/PUBG_MOBILE-MVP_Tool-8A5CF6?style=for-the-badge)](https://www.mvptool.store/)
 
 </div>
 
@@ -20,7 +21,8 @@ Building practical software for mobile-device servicing, repair workflows, and u
 
 I'm a developer focused on building tools that solve real-world problems, especially in the GSM and mobile-device servicing space. I work on desktop applications, device-service workflows, and web projects, with an emphasis on usability, reliability, and continuous improvement.
 
-- 🛠️ Developing **MN-TOOL** and tools for mobile-device servicing.
+- 🛠️ Developing **MN-TOOL** for GSM servicing workflows.
+- 🎮 Building **MVP Tool**, a tool for PUBG MOBILE.
 - 💻 Building Windows desktop applications with **C# / .NET**.
 - 🗄️ Working with **SQLite** and practical data-driven workflows.
 - 🌐 Creating and improving websites for software products.
@@ -29,6 +31,21 @@ I'm a developer focused on building tools that solve real-world problems, especi
 ## 🚀 Featured Work
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3>🎮 MVP Tool — PUBG MOBILE</h3>
+      <p>A dedicated website for my PUBG MOBILE tool project.</p>
+      <a href="https://www.mvptool.store/">Visit MVP Tool website →</a>
+    </td>
+    <td width="50%">
+      <h3>🧰 MN-TOOL</h3>
+      <p>A GSM servicing tool project focused on supported device-service workflows.</p>
+      <a href="https://github.com/Mahm0udNabil/MNTOOL">View repository →</a>
+      &nbsp;·&nbsp;
+      <a href="https://www.mn-tool.store/">Website →</a>
+    </td>
+  </tr>
+  <tr>
   <tr>
     <td width="50%">
       <h3>🧰 MN-TOOL</h3>
@@ -76,6 +93,7 @@ I'm a developer focused on building tools that solve real-world problems, especi
 
 - **GitHub:** [@Mahm0udNabil](https://github.com/Mahm0udNabil)
 - **MN-TOOL:** [mn-tool.store](https://www.mn-tool.store/)
+- **MVP Tool (PUBG MOBILE):** [mvptool.store](https://www.mvptool.store/)
 - **Baseet:** [baseet.store](https://www.baseet.store/)
 
 ---
